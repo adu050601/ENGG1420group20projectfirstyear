@@ -10,7 +10,7 @@
       <padding>
         <Insets bottom="20" left="20" right="20" top="20" />
       </padding>
-         <TabPane prefHeight="200.0" prefWidth="200.0" tabClosingPolicy="UNAVAILABLE">
+         <TabPane prefHeight="400.0" prefWidth="200.0" tabClosingPolicy="UNAVAILABLE">
            <tabs>
              <Tab text="Dashboard">
                <content>
