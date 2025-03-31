@@ -74,6 +74,10 @@ public class UniversityManagementProject extends Application {
             String username = userInput.getText();
             String password = passInput.getText();
 
+            System.out.println(">>>>>>button clicked");
+            System.out.println("username: " + username);
+            System.out.println("password: " + password);
+
             // Check ADMIN credentials
             if (username.equals(ADMIN_USERNAME)) {
                 if (password.equals(ADMIN_PASSWORD)) {
